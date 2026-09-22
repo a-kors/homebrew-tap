@@ -1,6 +1,6 @@
 cask "klipto" do
-  version "1.4.0"
-  sha256 "57728f517981376b0b940cca62bffd21d82b9734b5e06554bae1ea8cbee9369f"
+  version "1.4.1"
+  sha256 "ed7578c814c37fd7a6652dd050bea80c8d180c7167bb12ff3d94b69185234216"
 
   url "https://klipto.me/releases/Klipto-#{version}.dmg"
   name "Klipto"
